@@ -1,0 +1,13 @@
+
+RewriteOptions inherit
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW IPDENYID:hcsNa7D98U
+deny from 114.10.79.243
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE hcsNa7D98U:IPDENYID
+

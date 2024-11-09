@@ -1,0 +1,41 @@
+{
+  "public/assets/css/animate.min.css": {
+    "file": "assets/animate.min-b87dc76e.css",
+    "isEntry": true,
+    "src": "public/assets/css/animate.min.css"
+  },
+  "public/assets/css/app-style.css": {
+    "file": "assets/app-style-6fa937d6.css",
+    "isEntry": true,
+    "src": "public/assets/css/app-style.css"
+  },
+  "public/assets/css/horizontal-menu.min.css": {
+    "file": "assets/horizontal-menu.min-81e254a8.css",
+    "isEntry": true,
+    "src": "public/assets/css/horizontal-menu.min.css"
+  },
+  "public/assets/css/main.css": {
+    "file": "assets/main-0738ec3c.css",
+    "isEntry": true,
+    "src": "public/assets/css/main.css"
+  },
+  "public/assets/img/bg-pattern.svg": {
+    "file": "assets/bg-pattern-be6983db.svg",
+    "src": "public/assets/img/bg-pattern.svg"
+  },
+  "public/assets/theme/app.css": {
+    "file": "assets/app-50bdf2e1.css",
+    "isEntry": true,
+    "src": "public/assets/theme/app.css"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-c42ce534.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
